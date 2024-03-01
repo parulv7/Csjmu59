@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Csjmu59/static/css/main.0cf8eb79.css",
+    "main.js": "/Csjmu59/static/js/main.c6cc517b.js",
+    "static/js/453.bdeeabc2.chunk.js": "/Csjmu59/static/js/453.bdeeabc2.chunk.js",
+    "static/media/12.png": "/Csjmu59/static/media/12.45aa5544bcf7a2f4a8b2.png",
+    "static/media/13.png": "/Csjmu59/static/media/13.0a1f6f26ef295901dc74.png",
+    "static/media/logo.png": "/Csjmu59/static/media/logo.b6d1334cd57d1600e53f.png",
+    "static/media/i1.png": "/Csjmu59/static/media/i1.389396f02d290705e5b1.png",
+    "static/media/img6.webp": "/Csjmu59/static/media/img6.6fc4f436bbd3614ad348.webp",
+    "static/media/logo.svg": "/Csjmu59/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Csjmu59/index.html",
+    "main.0cf8eb79.css.map": "/Csjmu59/static/css/main.0cf8eb79.css.map",
+    "main.c6cc517b.js.map": "/Csjmu59/static/js/main.c6cc517b.js.map",
+    "453.bdeeabc2.chunk.js.map": "/Csjmu59/static/js/453.bdeeabc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cf8eb79.css",
+    "static/js/main.c6cc517b.js"
+  ]
+}
